@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Blockchain Cloud Solutions Cryptocurrency 
-title: Rohit Jain
+home_text: Writer Blockchain DeFi 
+title: Collin Rittschof
 ---
