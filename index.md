@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Writer Blockchain DeFi Cloud
+home_text: Writer DeFi SaaS Sales
 title: Collin Rittschof
 ---
